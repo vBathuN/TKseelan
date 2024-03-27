@@ -340,6 +340,14 @@ animation-name: blinker;
   72%, 100% {transform:translate3d(calc(-100% - 40px), 0, 0)}
 }
 
+.tks-logo
+{
+    width:110px;
+    height:500px;
+    z-index:100;
+    margin: 50px 50px;
+}
+
 .rtcs
 {
     width:1280px;
