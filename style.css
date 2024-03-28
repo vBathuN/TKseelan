@@ -234,10 +234,10 @@ animation-name: blinker;
 .textrss /* wrap */ {
   position: absolute;
   z-index: 100;
-  width: 1080px;
+  width: 90%;
   height: 200px;
   line-height: 1.6;
-  margin: -10px -8px; 
+  margin: -10px -400px; 
 }
 
 .base{
